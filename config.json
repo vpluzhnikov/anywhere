@@ -1,5 +1,6 @@
 {
   "providers" : [
-    { "type" : "localstore", "location" : "/Users/vsevolodpluzhnikov/tmp"}
+    { "type" : "localstore", "location" : "/Users/vsevolodpluzhnikov/tmp"},
+    { "type" : "remote:yandexdrive", "username" : "test", "password" : "test" }
   ]
 }
