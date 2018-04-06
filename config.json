@@ -1,0 +1,5 @@
+{
+  "providers" : [
+    { "type" : "localstore", "location" : "/Users/vsevolodpluzhnikov/tmp"}
+  ]
+}
